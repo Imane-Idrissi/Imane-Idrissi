@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Imane, a full-stack developer who loves creating solutions that serve people, not just add unnecessary complexity.
+I'm Imane, a full-stack web developer who loves creating solutions that serve people, not just add unnecessary complexity.
 
 I recently built a collaborative platform that combines Kanban boards with a chat app.
 ⭐ **What makes it different** is an AI feature that lets teams chat naturally while AI extracts tasks that need to be done from the discussion.
