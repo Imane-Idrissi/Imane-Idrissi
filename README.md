@@ -1,9 +1,9 @@
-## Hey there! 👋
+## Hey there! 
 
-I'm Imane, a full-stack web developer who loves creating solutions that serve people, not just add unnecessary complexity.
+I'm Imane, a full-stack developer focused on building solutions that genuinely serve people, not just add unnecessary complexity.
+I recently built **Unblurry**, a privacy-first macOS desktop app that helps users understand their work habits through AI-powered behavioral analysis. Fully local, no backend. Built with Electron, React, TypeScript, and the Gemini API. Try it at **[unblurry.app](https://www.unblurry.app)**.
 
-I recently built a collaborative platform that combines Kanban boards with a chat app.
-⭐ **What makes it different** is an AI feature that lets teams chat naturally while AI extracts tasks that need to be done from the discussion.
+I also built a collaborative platform that combines Kanban boards with real-time chat. What sets it apart is an AI feature that lets teams have natural conversations while automatically extracting tasks from the discussion, to reduce the initial mental fatigue of having to think up and organize tasks from scratch.
 
 ### Get In Touch
 
