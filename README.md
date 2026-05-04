@@ -12,4 +12,4 @@ I also built a collaborative platform that combines Kanban boards with real-time
 
 ---
 
-**Want to know more about my projects?** Why I built them and how I approached the design decisions? Visit **[imaneidrissi.com](https://imaneidrissi.com)**
+**Want to know more about my projects?** Why I built them and the decisions behind them. Visit **[imaneidrissi.com](https://imaneidrissi.com)**
